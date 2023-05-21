@@ -2,7 +2,7 @@
   "name": "dqflex",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.io/mimimya/dqflex-front",
+  "homepage": "https://mimimya.github.io/dqflex-front",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
