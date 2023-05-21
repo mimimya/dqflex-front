@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dqflex-front/static/css/main.190e8e4e.chunk.css",
-    "main.js": "/dqflex-front/static/js/main.e241eb7a.chunk.js",
-    "main.js.map": "/dqflex-front/static/js/main.e241eb7a.chunk.js.map",
+    "main.js": "/dqflex-front/static/js/main.9986fc87.chunk.js",
+    "main.js.map": "/dqflex-front/static/js/main.9986fc87.chunk.js.map",
     "runtime-main.js": "/dqflex-front/static/js/runtime-main.3b4a0277.js",
     "runtime-main.js.map": "/dqflex-front/static/js/runtime-main.3b4a0277.js.map",
     "static/js/2.163b2658.chunk.js": "/dqflex-front/static/js/2.163b2658.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3b4a0277.js",
     "static/js/2.163b2658.chunk.js",
     "static/css/main.190e8e4e.chunk.css",
-    "static/js/main.e241eb7a.chunk.js"
+    "static/js/main.9986fc87.chunk.js"
   ]
 }
