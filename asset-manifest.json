@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mimimya/dqflex-front/static/css/main.190e8e4e.chunk.css",
+    "main.js": "/mimimya/dqflex-front/static/js/main.3ce19f61.chunk.js",
+    "main.js.map": "/mimimya/dqflex-front/static/js/main.3ce19f61.chunk.js.map",
+    "runtime-main.js": "/mimimya/dqflex-front/static/js/runtime-main.530f7f4c.js",
+    "runtime-main.js.map": "/mimimya/dqflex-front/static/js/runtime-main.530f7f4c.js.map",
+    "static/js/2.163b2658.chunk.js": "/mimimya/dqflex-front/static/js/2.163b2658.chunk.js",
+    "static/js/2.163b2658.chunk.js.map": "/mimimya/dqflex-front/static/js/2.163b2658.chunk.js.map",
+    "index.html": "/mimimya/dqflex-front/index.html",
+    "static/css/main.190e8e4e.chunk.css.map": "/mimimya/dqflex-front/static/css/main.190e8e4e.chunk.css.map",
+    "static/js/2.163b2658.chunk.js.LICENSE.txt": "/mimimya/dqflex-front/static/js/2.163b2658.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.530f7f4c.js",
+    "static/js/2.163b2658.chunk.js",
+    "static/css/main.190e8e4e.chunk.css",
+    "static/js/main.3ce19f61.chunk.js"
+  ]
+}
