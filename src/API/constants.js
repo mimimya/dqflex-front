@@ -1,1 +1,1 @@
-export const baseUrl = "mimimya.link:8080";
+export const baseUrl = "http://mimimya.link:8080";
